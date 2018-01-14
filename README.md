@@ -1,0 +1,1 @@
+# Arduino code to run the lightshow for the Field Museum's Trade Network Map exhibit that is part of the traveling Chocolate Exhibition. You can see the work I did for this exhibit [here](http://johnkinstler.com/section/365432_LED_Light_Show.html).
